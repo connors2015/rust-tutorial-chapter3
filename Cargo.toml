@@ -1,0 +1,6 @@
+[package]
+name = "rust-tutorial-chapter3"
+version = "0.1.0"
+authors = ["connors2015 <cx_connors@laurentian.ca>"]
+
+[dependencies]
